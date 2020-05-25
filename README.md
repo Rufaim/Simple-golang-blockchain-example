@@ -16,7 +16,7 @@ go get github.com/Rufaim/Simple-golang-blockchain-example
 
 **2)** Second, run a server
 ```bash
-go run config.json
+go run . config.json
 ```
 Message `Server is on http://localhost:8080` should appear is console for default config.
 
